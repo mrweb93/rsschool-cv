@@ -187,5 +187,11 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 ## My apps
-* https://play.google.com/store/apps/details?id=io.github.mrweb93.fiveletters
-* https://play.google.com/store/apps/details?id=ru.mmrescue.mobileapp
+* Java, Kotlin - https://play.google.com/store/apps/details?id=io.github.mrweb93.fiveletters
+* Java, Kotlin, okhttp- https://play.google.com/store/apps/details?id=ru.mmrescue.mobileapp
+## My education
+* I'm master degree 09.04.01 "Computer Science"
+## Language
+* Russian - native speaker
+* English - pre-intermediate (A2)
+* Chinese - I know some simple words
