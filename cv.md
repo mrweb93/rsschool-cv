@@ -1,5 +1,5 @@
 # Evgenii Sobolev
-<img src="(/img/avatar.png" alt="E.I.Sobolev" width="250">
+<img src="/img/avatar.png" alt="E.I.Sobolev" width="250">
 ## Contacts
 * Phone: +79141622610
 * Email: mr_w_e_b@mail.ru
